@@ -25,7 +25,11 @@ Building upon previous code alongs, in this exercise you will make your pages re
 
 Lets start out by making a new feature branch in Terminal by typing `git checkout -b responsive-design` and press return. 
 
-...
+Then open the index.html page in your code editor. Let's add a meta tag at the top of the `<head>` section to handle the viewport teliing it not to resize but isntead use the devices size to drive our media queries we will write coming up.
+
+```html
+
+```
 
 
 
