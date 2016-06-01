@@ -14,10 +14,9 @@ Building upon previous code alongs, in this exercise you will make your pages re
 
 ## Instructions
 
-1. Fork this repository.
-2. Use Terminal to clone your forked copy.
-3. Then change directory into the repository folder.
-4. Code along with the provided video below and/or its supplementary reading located below the video. Code everything you see there. Feel free to stop, pause, rewind or fast forward through the content to keep pace.
+1. Type `learn open html-css-responsive-layout-code-along` to obtain a local copy of this lesson.
+2. Then change directory into the repository folder.
+3. Code along with the provided video below and/or its supplementary reading located below the video. Code everything you see there. Feel free to stop, pause, rewind or fast forward through the content to keep pace.
 
 <iframe width="100%" height="720" src="//www.youtube.com/embed/qxxJhKd2VDE?rel=0&controls=1&showinfo=1" frameborder="0" allowfullscreen></iframe>
 
@@ -188,9 +187,6 @@ Save the CSS and refresh in the browser. Now scaling the device (browser) up an 
 
 It's now time to version our changes using Git. To do so, in Terminal type `git add .` and press return. Then type `git commit -m "add responsive layout"` and press return. Then push up this feature branch `git push -u origin responsive-design` and press return. Next merge the changes into your master branch. Type `git checkout master` and press return, then `git merge responsive-design` and press return. Then `git push origin master` and press return.
 
-After you finish, make sure you install Firefox if you haven't already as it is required for the screenshot tests to run. Then, type learn command from Terminal to run local tests (Mac) or type learn-test for Windows.
-
-After all tests are passing submit a pull request on Github and move on to the next lesson!
 
 ## Resources
 
