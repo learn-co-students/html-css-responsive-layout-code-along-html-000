@@ -171,9 +171,9 @@ Back to responsive.css.
 }
 ```
 
-Here we are setting the menu-icon to appear and all the other nav links to hide. Let's save this CSS file and head back to the browser and refresh. You should see the menu icon appear and the other links disappear under 700pxx. Currently clicking the menu icon has no effect. Typically we would use Javascript to listen for clicks on this icon and then display the menu links again below the menu icon as a vertical list. If you are interested to see the completed code for this you can download the zip file with the finished code form the link in the resources at the bottom of this lesson.
+Here we are setting the menu-icon to appear and all the other nav links to hide. Let's save this CSS file and head back to the browser and refresh. You should see the menu icon appear and the other links disappear under 700px. Currently clicking the menu icon has no effect. Typically we would use Javascript to listen for clicks on this icon and then display the menu links again below the menu icon as a vertical list. If you are interested to see the completed code for this you can download the zip file with the finished code from the link in the resources at the bottom of this lesson.
 
-After scaling the browser a bit smaller the only thing that looks like it needs adjusted now is that logo is geeting close to the social icons they are sharing the horizontal space with. Let's write one last media query to hide the `h2`.
+After scaling the browser a bit smaller the only thing that looks like it needs adjusted now is that logo is getting close to the social icons they are sharing the horizontal space with. Let's write one last media query to hide the `h2`.
 
 ```css
 @media only screen and (max-width: 495px) {
@@ -194,3 +194,5 @@ It's now time to version our changes using Git. To do so, in Terminal type `git 
 - [Chrome Developer Tools Overview](https://developer.chrome.com/devtools)
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/fe-code-along-ex-7' title='OCode Along Exercise 7'>Code Along Exercise 7</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/html-css-responsive-layout-code-along'>Responsive Layout Code-Along</a> on Learn.co and start learning to code for free.</p>
