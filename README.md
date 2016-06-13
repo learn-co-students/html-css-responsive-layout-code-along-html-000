@@ -143,7 +143,7 @@ Everything is looking pretty good, but the multi column layout is looking a litt
 
 This will set the columns to a single column taking up the full width of the wrapper. We also removed the border from the right side of the divs in the details section as well as set their height to auto. Now, save the CSS and refresh in the browser. Looking much better on smaller devices now!
 
-As wel continue to scale down even smaller I notice that the main navigatuion icons are looking crowded. We can fix this by using a traditional strategy of hiding the navigation links and instead displaying a menu icon (hamburger icon) that when the user clicks will display the menu links.
+As wel continue to scale down even smaller I notice that the main navigation icons are looking crowded. We can fix this by using a traditional strategy of hiding the navigation links and instead displaying a menu icon (hamburger icon) that when the user clicks will display the menu links.
 
 Back to responsive.css.
 
@@ -194,3 +194,5 @@ It's now time to version our changes using Git. To do so, in Terminal type `git 
 - [Chrome Developer Tools Overview](https://developer.chrome.com/devtools)
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/fe-code-along-ex-7' title='OCode Along Exercise 7'>Code Along Exercise 7</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/html-css-responsive-layout-code-along'>Responsive Layout Code-Along</a> on Learn.co and start learning to code for free.</p>
