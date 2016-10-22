@@ -19,7 +19,7 @@ li {
   margin-left: 20px;
 }
 
-p, address { 
+p, address {
   font-size: 1em; /* 16px, ?pt, 100%, 1em */
   line-height: 1.5em;
 }
@@ -347,12 +347,9 @@ section {
 /*////////// FOOTER //////////*/
 
 footer {
-  text-align: center; 
+  text-align: center;
   font-size: 0.75em;
   padding: 10px;
   background: #eee;
-  border-top: 1px solid; 
+  border-top: 1px solid;
 }
-
-
-
